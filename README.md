@@ -1,8 +1,58 @@
-# React + Vite
+# Supratim Mukerjee Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning, professional portfolio website showcasing the skills, projects, and certifications of **Supratim Mukerjee**. Built with modern web technologies, this portfolio features a premium dark-themed design with interactive 3D elements and smooth animations.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Premium Design**: Sleek dark mode aesthetics with custom HSL-tailored colors.
+- **Interactive 3D Elements**: Powered by Three.js and React Three Fiber for an immersive experience.
+- **Responsive Layout**: Fully optimized for desktop, tablet, and mobile devices.
+- **Dynamic Animations**: Smooth transitions and micro-animations using Framer Motion.
+- **Sectioned Content**: Clearly organized sections for Hero, About, Certifications, Projects, and Contact.
+
+## 🛠️ Tech Stack
+
+- **Framework**: [React](https://reactjs.org/) (Vite)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **3D Graphics**: [Three.js](https://threejs.org/) & [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+
+## 📦 Installation Details
+
+Follow these steps to set up and run the portfolio locally:
+
+### 1. Clone the repository
+```bash
+git clone <repository-url>
+cd portfolio
+```
+
+### 2. Install Dependencies
+Make sure you have [Node.js](https://nodejs.org/) installed. Run the following command to install all required packages:
+```bash
+npm install
+```
+
+### 3. Run Development Server
+Start the local development server to view the portfolio:
+```bash
+npm run dev
+```
+Open `http://localhost:5173` in your browser.
+
+### 4. Build for Production
+To create an optimized production build:
+```bash
+npm run build
+```
+The output will be in the `dist/` directory.
+
+## 👤 Author
+
+**Supratim Mukerjee**
+- **Role**: Software Developer / AI enthusiast
+- **Project**: Personal Portfolio
+
+---
+*Created with ❤️ using Antigravity.*
