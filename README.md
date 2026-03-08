@@ -55,4 +55,3 @@ The output will be in the `dist/` directory.
 - **Project**: Personal Portfolio
 
 ---
-*Created with ❤️ using Antigravity.*
